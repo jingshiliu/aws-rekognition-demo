@@ -1,6 +1,7 @@
 # A demo of AWS Rekognition as a Practice to use AWS SDK
 
 Used my profile photo in this repo, and got following result
+
 ![Jingshi's Profile Photo](./profile.png)
 
 ```
